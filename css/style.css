@@ -211,14 +211,14 @@ hr {
     box-shadow: #00f6 0 7px 20px;
 }
 .head{
-    font-size: 1rem;
+    text-align: center;
+    margin: 2rem;
     color: var(--primary-color);
-    font-weight: 600;
 }
 .p-tech{
     font-size: 1rem;
-    font-weight
     color: var(--primary-color);
+    font-weight: 600;
 }
 /* blog */
 .blog-container{
